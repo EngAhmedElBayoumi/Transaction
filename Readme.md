@@ -1,10 +1,17 @@
 # Images from the task
+## list all accounts
 ![My Image](images/1.png)
+## transfer 
 ![My Image](images/2.png)
+## import from excel sheet
 ![My Image](images/3.png)
+## dashboard
 ![My Image](images/4.png)
+## list transactions
 ![My Image](images/5.png)
+## list accounts
 ![My Image](images/6.png)
+## accounts details with his transactions send and recieve
 ![My Image](images/7.png)
 ![My Image](images/8.png)
 ![My Image](images/9.png)
