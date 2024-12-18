@@ -42,7 +42,8 @@ class ReceivedTransactionInline(admin.TabularInline):
 
 @admin.register(Account)
 class AccountAdmin(ModelAdmin, ImportExportModelAdmin):
-
+    import_form_class  = ImportForm
+    export_form_class = SelectableFieldsExportForm
     list_display = ['name', 'balance']
     search_fields = ['name']
     list_per_page = 50
@@ -56,7 +57,8 @@ class TransactionAdmin(ModelAdmin, ImportExportModelAdmin):
     list_display = ['sender', 'receiver', 'amount', 'date']
     search_fields = ['sender__name', 'receiver__name']
     list_per_page = 50
-
+    import_form_class  = ImportForm
+    export_form_class = SelectableFieldsExportForm
 
 
 

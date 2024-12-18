@@ -3,8 +3,12 @@
 ![My Image](images/1.png)
 ## transfer 
 ![My Image](images/2.png)
+## view account details
+![My Image](images/11.png)
 ## import from excel sheet
 ![My Image](images/3.png)
+## import more than one file formate
+![My Image](images/10.png)
 ## dashboard
 ![My Image](images/4.png)
 ## list transactions
