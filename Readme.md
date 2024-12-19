@@ -26,7 +26,7 @@
 steps to run the project on windows 
 1. clone the project
 ```
-git clone https://github.com/EngAhmedElBayoumi/transaction_task.git
+git clone https://github.com/EngAhmedElBayoumi/Transaction.git
 ```
 2. go inside the project 
 ```
